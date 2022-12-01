@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-   Hi there 👋 I am a UTSA student studying Cybersecurity
+  :relaxed:	 Hi there 👋 I am a UTSA student studying Cybersecurity
 <!--
 **Kennedy-Champion/Kennedy-Champion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
