@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/kennedy-c-5b13a71a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
-
+ ---
+  About Me :
   :relaxed:	 Hi there 👋 
   
   I am a UTSA student studying Cybersecurity
